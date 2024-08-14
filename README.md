@@ -42,5 +42,5 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow an
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/handwritten-digit-recognition.git
+git clone https://github.com/ms032383/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
